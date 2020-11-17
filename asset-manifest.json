@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Khan-Saad.github.io/static/css/main.dc8e8ff0.chunk.css",
+    "main.js": "/Khan-Saad.github.io/static/js/main.010fa8e8.chunk.js",
+    "main.js.map": "/Khan-Saad.github.io/static/js/main.010fa8e8.chunk.js.map",
+    "runtime-main.js": "/Khan-Saad.github.io/static/js/runtime-main.68b2648e.js",
+    "runtime-main.js.map": "/Khan-Saad.github.io/static/js/runtime-main.68b2648e.js.map",
+    "static/css/2.23154d62.chunk.css": "/Khan-Saad.github.io/static/css/2.23154d62.chunk.css",
+    "static/js/2.be14d4da.chunk.js": "/Khan-Saad.github.io/static/js/2.be14d4da.chunk.js",
+    "static/js/2.be14d4da.chunk.js.map": "/Khan-Saad.github.io/static/js/2.be14d4da.chunk.js.map",
+    "static/js/3.75c3835c.chunk.js": "/Khan-Saad.github.io/static/js/3.75c3835c.chunk.js",
+    "static/js/3.75c3835c.chunk.js.map": "/Khan-Saad.github.io/static/js/3.75c3835c.chunk.js.map",
+    "index.html": "/Khan-Saad.github.io/index.html",
+    "static/css/2.23154d62.chunk.css.map": "/Khan-Saad.github.io/static/css/2.23154d62.chunk.css.map",
+    "static/css/main.dc8e8ff0.chunk.css.map": "/Khan-Saad.github.io/static/css/main.dc8e8ff0.chunk.css.map",
+    "static/js/2.be14d4da.chunk.js.LICENSE.txt": "/Khan-Saad.github.io/static/js/2.be14d4da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68b2648e.js",
+    "static/css/2.23154d62.chunk.css",
+    "static/js/2.be14d4da.chunk.js",
+    "static/css/main.dc8e8ff0.chunk.css",
+    "static/js/main.010fa8e8.chunk.js"
+  ]
+}
